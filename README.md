@@ -10,7 +10,7 @@ some daily used conda environments
 
 *make sure the **conda-forge** channel has the highest priority (the last one to be added), followed by **bioconda** channel.*
 
-In China, you can use the following channles instead:
+In China, you can use the following channels instead:
 
     conda config --add channels http://mirrors.ustc.edu.cn/anaconda/cloud/bioconda/
     conda config --add channels http://mirrors.ustc.edu.cn/anaconda/cloud/conda-forge/
