@@ -66,3 +66,5 @@ In China, you can use the following channels instead:
 # mitozEnv
     conda create  -n mitozEnv libgd=2.2.4 python=3.6.0 biopython=1.69 ete3=3.0.0b35 perl-list-moreutils perl-params-validate perl-clone circos=0.69 perl-bioperl blast=2.2.31  hmmer=3.1b2  bwa=0.7.12 samtools=1.3.1 infernal=1.1.1 tbl2asn openjdk
 
+# genometools
+https://github.com/genometools/genometools
